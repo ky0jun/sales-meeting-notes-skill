@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sales Meeting Notes"
+  short_description: "Turn Korean sales transcripts into structured meeting notes."
+  default_prompt: "세일즈 미팅 대화록을 붙여넣으면 질문, 상대 니즈, 우리가 줄 수 있는 것, 제안 및 액션플랜, 메모로 정리해줘."
